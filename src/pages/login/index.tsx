@@ -64,11 +64,13 @@ const Login = () => {
             </Button>
           </form>
           <Typography
-            variant="body2"
-            align="center"
+            variant="caption"
+            align="right"
             style={{ marginTop: "1rem" }}
+            color="error"
           >
-            Don't have an account? <a href="/register">Sign up</a>
+            You can enter any email and password here to get a token and access
+            the home page.
           </Typography>
         </Paper>
       </Box>
