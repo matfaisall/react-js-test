@@ -3,7 +3,7 @@
 clone the repo
 
 ```
-tulis disini
+https://github.com/matfaisall/react-js-test.git
 ```
 
 install the dependencies
